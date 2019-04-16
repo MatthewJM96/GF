@@ -1,0 +1,9 @@
+digraph "AllArcLookUp&lt; GR &gt;"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node0 [label="AllArcLookUp\< GR \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Fast look-up of all arcs between given endpoints."];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 [label="ArcLookUp\< GR \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a01853.html",tooltip="Fast arc look-up between given endpoints."];
+}

@@ -1,0 +1,9 @@
+digraph "TimeReport"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node0 [label="TimeReport",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Same as Timer but prints a report on destruction."];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 [label="Timer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a04065.html",tooltip="Class for measuring the cpu time and real time usage of the process."];
+}

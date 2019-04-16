@@ -1,0 +1,17 @@
+digraph "MappableDigraphComponent&lt; BAS &gt;::ArcMap&lt; V &gt;"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node0 [label="MappableDigraphComponent\l\< BAS \>::ArcMap\< V \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Standard graph map for the arcs."];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 [label="GraphMap\< MappableDigraph\lComponent, Arc, V \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a05145.html",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="ReferenceMap\< Arc,\l V, V &, const V & \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a05301.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="ReadWriteMap\< Arc, V \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a05293.html",tooltip=" "];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="ReadMap\< Arc, V \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a05277.html",tooltip=" "];
+  Node5 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="WriteMap\< Arc, V \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a05285.html",tooltip=" "];
+}

@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['odd',['ODD',['../a03421.html#a67a0db04d321a74b7e7fcfd3f1a3f70baa29cedab858353a26006af9db7cd1ed8',1,'lemon::MaxMatching']]],
+  ['optimal',['OPTIMAL',['../a01589.html#a4c669cb1cb4d98dfea944e9ceec7d33ea2579881e7c83261bc21bafb5a5c92cad',1,'lemon::CapacityScaling::OPTIMAL()'],['../a01873.html#a4c669cb1cb4d98dfea944e9ceec7d33ea2579881e7c83261bc21bafb5a5c92cad',1,'lemon::CostScaling::OPTIMAL()'],['../a01925.html#a4c669cb1cb4d98dfea944e9ceec7d33ea2579881e7c83261bc21bafb5a5c92cad',1,'lemon::CycleCanceling::OPTIMAL()'],['../a02629.html#a70e8fb7e2e48605883db4d1109a5f79fa2579881e7c83261bc21bafb5a5c92cad',1,'lemon::HowardMmc::OPTIMAL()'],['../a03141.html#a4c669cb1cb4d98dfea944e9ceec7d33ea2579881e7c83261bc21bafb5a5c92cad',1,'lemon::LpSolver::OPTIMAL()'],['../a03145.html#a4c669cb1cb4d98dfea944e9ceec7d33ea2579881e7c83261bc21bafb5a5c92cad',1,'lemon::MipSolver::OPTIMAL()'],['../a03625.html#a4c669cb1cb4d98dfea944e9ceec7d33ea2579881e7c83261bc21bafb5a5c92cad',1,'lemon::NetworkSimplex::OPTIMAL()']]]
+];

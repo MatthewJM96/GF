@@ -1,0 +1,9 @@
+digraph "CombineMap&lt; M1, M2, F, V &gt;"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node0 [label="CombineMap\< M1, M2,\l F, V \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Combination of two maps using an STL (binary) functor."];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 [label="MapBase\< M1::Key, V \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a03161.html",tooltip=" "];
+}

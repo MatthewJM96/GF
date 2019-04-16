@@ -1,0 +1,13 @@
+digraph "BpGraph::Arc"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node0 [label="BpGraph::Arc",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="The arc type of the graph."];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 [label="ArcIt",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a04881.html",tooltip="Iterator class for the arcs."];
+  Node0 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="InArcIt",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a04889.html",tooltip="Iterator class for the incoming arcs of a node."];
+  Node0 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="OutArcIt",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a04885.html",tooltip="Iterator class for the outgoing arcs of a node."];
+}

@@ -1,0 +1,11 @@
+digraph "BaseDigraphComponent"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node0 [label="BaseDigraphComponent",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Base skeleton class for directed graphs."];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 [label="BaseGraphComponent",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a05029.html",tooltip="Base skeleton class for undirected graphs."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="BaseBpGraphComponent",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a05041.html",tooltip="Base skeleton class for undirected bipartite graphs."];
+}

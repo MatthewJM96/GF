@@ -1,0 +1,9 @@
+digraph "Circulation&lt; GR, LM, UM, SM, TR &gt;::SetElevator&lt; T &gt;"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node0 [label="Circulation\< GR, LM,\l UM, SM, TR \>::SetElevator\< T \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Named parameter for setting Elevator type"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 [label="Circulation\< Digraph,\l LowerMap, UpperMap,\l SupplyMap, SetElevatorTraits\l\< T \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a01617.html",tooltip=" "];
+}

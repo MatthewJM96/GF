@@ -1,0 +1,9 @@
+digraph "DfsWizardDefaultTraits&lt; GR &gt;"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node0 [label="DfsWizardDefaultTraits\l\< GR \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Default traits class of dfs() function."];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 [label="DfsWizardBase\< GR \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a01985.html",tooltip="Default traits class used by DfsWizard."];
+}

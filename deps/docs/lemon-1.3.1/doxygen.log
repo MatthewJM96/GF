@@ -1,0 +1,807 @@
+error: Tag file `/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/libstdc++.tag' does not exist or is not a file. Skipping it...
+/home/matthew/Documents/Development/Libraries/lemon-1.3.1/doc/dirs.dox:27: warning: \dir command matches multiple directories.
+  Applying the command for directory /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/
+  Ignoring the command for directory /home/matthew/Documents/Development/Libraries/lemon-1.3.1/doc/
+
+/home/matthew/Documents/Development/Libraries/lemon-1.3.1/doc/dirs.dox:35: warning: No matching directory found for command \dir contrib/
+
+/home/matthew/Documents/Development/Libraries/lemon-1.3.1/lemon/random.h:675: warning: Member real() (function) of class lemon::Random is not documented.
+/home/matthew/Documents/Development/Libraries/lemon-1.3.1/lemon/random.h:734: warning: Member uinteger() (function) of class lemon::Random is not documented.
+/home/matthew/Documents/Development/Libraries/lemon-1.3.1/lemon/random.h:750: warning: Member integer() (function) of class lemon::Random is not documented.
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03216.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03216.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03256.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03256.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03268.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03268.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01860.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01860.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01852.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01852.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01348.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01348.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01408.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01408.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01416.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01416.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01400.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01400.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01424.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01424.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01428.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01428.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01468.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01468.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01484.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01484.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01476.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01476.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01460.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01460.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01544.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01544.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01492.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01492.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01500.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01500.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01496.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01496.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01600.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01600.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01604.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01604.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01624.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01624.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01640.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01640.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03196.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03196.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01644.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01644.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01632.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01632.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03168.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03168.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03192.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03192.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03176.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03176.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01884.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01884.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03208.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03208.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01912.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01912.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01908.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01908.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01920.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01920.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01916.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01916.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01944.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01944.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01968.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01968.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01952.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01952.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01960.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01960.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02028.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02028.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01976.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01976.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01984.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01984.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02060.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02060.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01980.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01980.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02084.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02084.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02100.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02100.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02052.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02052.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02068.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02068.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02092.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02092.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02076.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02076.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03228.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03228.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02104.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02104.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02296.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02296.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02108.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02108.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03284.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03284.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02308.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02308.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03212.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03212.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03264.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03264.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03200.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03200.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02444.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02444.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02452.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02452.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02316.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02316.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02608.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02608.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02456.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02456.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02616.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02616.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02644.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02644.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02636.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02636.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03180.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03180.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02312.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02312.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03304.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03304.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02716.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02716.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02724.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02724.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03288.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03288.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03076.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03076.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03300.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03300.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03088.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03088.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03084.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03084.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03080.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03080.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03136.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03136.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03092.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03092.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03204.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03204.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03160.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03160.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03152.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03152.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03140.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03140.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03500.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03500.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03508.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03508.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03516.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03516.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02356.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02356.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03524.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03524.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03532.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03532.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02348.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02348.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02364.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02364.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03560.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03560.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03568.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03568.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03156.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03156.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03224.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03224.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03144.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03144.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03604.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03604.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03596.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03596.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03248.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03248.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03252.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03252.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03588.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03588.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03276.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03276.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03280.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03280.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03164.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03164.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03272.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03272.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03816.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03816.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01652.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01652.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03808.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03808.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03800.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03800.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03828.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03828.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03240.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03240.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03184.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03184.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03244.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03244.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03232.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03232.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03236.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03236.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03988.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03988.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03148.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03148.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03188.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03188.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03220.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03220.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04032.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04032.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04056.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04056.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04040.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04040.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04048.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04048.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04064.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04064.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04068.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04068.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05136.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05136.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03260.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03260.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05120.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05120.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05040.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05040.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05128.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05128.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05048.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05048.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05044.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05044.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05020.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05020.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05032.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05032.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04876.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04876.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05028.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05028.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04904.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04904.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04848.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04848.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04880.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04880.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04856.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04856.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04908.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04908.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04900.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04900.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04868.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04868.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04864.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04864.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04888.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04888.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04840.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04840.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04872.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04872.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04884.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04884.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04892.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04892.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04860.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04860.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04844.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04844.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04852.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04852.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05264.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05264.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04896.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04896.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04928.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04928.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05260.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05260.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05252.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05252.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04948.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04948.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04940.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04940.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04936.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04936.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04920.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04920.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04944.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04944.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04924.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04924.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05248.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05248.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04932.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04932.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05240.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05240.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04984.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04984.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04980.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04980.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04972.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04972.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04968.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04968.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05004.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05004.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05000.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05000.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04992.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04992.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04964.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04964.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04960.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04960.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04976.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04976.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04988.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04988.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05012.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05012.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04996.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04996.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05144.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05144.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05072.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05072.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05056.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05056.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05112.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05112.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05104.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05104.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05096.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05096.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05064.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05064.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05188.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05188.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05192.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05192.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05160.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05160.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05152.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05152.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05196.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05196.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05172.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05172.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05276.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05276.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05176.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05176.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05156.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05156.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05292.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05292.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05284.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05284.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/graph_legend.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/graph_legend.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05300.dot" -Tpng -o "/home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05300.png"'
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03256.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03216.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01860.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03268.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01852.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01348.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01408.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01416.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01400.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01428.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01424.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01468.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01460.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01484.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01476.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01492.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01544.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01500.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01496.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01600.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01604.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01632.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01624.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01640.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01644.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03196.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03192.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03168.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03176.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03208.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01884.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01912.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01908.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01916.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01920.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01952.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01944.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01968.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01960.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01976.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02028.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01984.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01980.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02060.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02084.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02100.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02052.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02068.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02092.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02076.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02108.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02104.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03228.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02296.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03284.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02308.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03264.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03212.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02316.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03200.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02444.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02452.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02456.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02608.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02616.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02636.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02644.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03180.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03304.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02312.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02716.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02724.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03288.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03300.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03076.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03080.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03084.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03088.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03092.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03136.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03152.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03140.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03160.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03204.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03500.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03508.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03524.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03516.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03532.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02356.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02348.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a02364.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03560.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03568.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03156.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03144.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03224.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03596.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03604.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03588.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03248.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03252.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03276.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03280.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03164.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03272.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a01652.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03808.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03800.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03816.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03828.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03184.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03240.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03244.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03232.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03236.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03148.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03988.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03188.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03220.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04032.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04056.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04048.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04040.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04064.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04068.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a03260.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05136.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05120.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05128.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05040.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05048.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05044.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05020.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05028.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05032.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04876.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04880.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04904.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04848.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04856.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04900.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04864.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04868.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04908.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04888.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04872.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04840.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04860.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04892.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04884.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04844.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04852.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04896.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05264.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05252.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05260.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04928.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04940.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04948.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04936.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04920.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04924.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04944.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04932.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05248.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05240.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04980.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04984.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05000.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04968.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04972.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05004.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04992.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04976.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04960.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04964.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04996.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a04988.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05012.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05144.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05072.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05056.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05064.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05112.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05096.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05104.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05188.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05196.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05192.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05152.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05160.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05156.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05172.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05176.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05276.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05292.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05300.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/matthew/Documents/Development/Libraries/lemon-1.3.1/build/doc/html/a05284.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.

@@ -1,0 +1,13 @@
+digraph "GlpkBase"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node0 [label="GlpkBase",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Base interface for the GLPK LP and MIP solver."];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 [label="LpBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a03077.html",tooltip="Common base class for LP and MIP solvers."];
+  Node0 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="GlpkLp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a02453.html",tooltip="Interface for the GLPK LP solver."];
+  Node0 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="GlpkMip",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a02457.html",tooltip="Interface for the GLPK MIP solver."];
+}

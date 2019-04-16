@@ -1,0 +1,11 @@
+digraph "MappableGraphComponent&lt; BAS &gt;"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node0 [label="MappableGraphComponent\l\< BAS \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Skeleton class for mappable undirected graphs."];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 [label="MappableDigraphComponent\l\< BAS \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a05153.html",tooltip="Skeleton class for mappable directed graphs."];
+  Node0 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="MappableBpGraphComponent\l\< BAS \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a05189.html",tooltip="Skeleton class for mappable undirected bipartite graphs."];
+}

@@ -1,0 +1,9 @@
+digraph "BaseBpGraphComponent::BlueNode"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node0 [label="BaseBpGraphComponent\l::BlueNode",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Class to represent blue nodes."];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 [label="Node",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$a05013.html",tooltip="Concept class for Node, Arc and Edge types."];
+}
